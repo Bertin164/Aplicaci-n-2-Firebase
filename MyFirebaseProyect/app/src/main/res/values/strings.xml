@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirebaseProyect</string>
+    <string name="hint" />
+    <string name="hint_email">Email:</string>
+    <string name="hint_password">Password:</string>
+    <string name="hint_confirm">Confirm Password:</string>
+    <string name="register_text">Register</string>
+    <string name="login_text">login</string>
+    <string name="upload_data">Crear nuevo restaurante</string>
+    <string name="retrieve_data">Consultar restaurantes</string>
+</resources>
